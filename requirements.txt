@@ -1,1 +1,5 @@
-pygame==1.9.3
+pygame>=2.2.0
+ruff
+pylint
+mypy
+black

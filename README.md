@@ -1,9 +1,8 @@
 # Untangle
 Untangle game with pygame
 
-![alt text](https://img.shields.io/badge/python-2.7-red.svg?v=1 "Python 2.7")
-![alt text](https://img.shields.io/badge/python-3.5-blue.svg?v=1 "Python 3.5")
-![alt text](https://img.shields.io/badge/PyGame-1.9.3-blue.svg?v=1 "PyGame 1.9.3")
+![alt text](https://img.shields.io/badge/python-3.11.2-blue.svg?v=1 "Python 3.11")
+![alt text](https://img.shields.io/badge/PyGame-2.2.0-blue.svg?v=1 "PyGame 2.2.0")
 
 Currently all texts goes to console, so run it from commandline.
 
